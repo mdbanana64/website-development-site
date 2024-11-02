@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    background-color: #969696;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainnavbar{
+    background-color: #2c2c2c;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    
+}
+.mainnavbar a{
+    text-decoration: none;
+}
+.mainnavbar div img{
+    width: 40px;
+    height: 40px;
+}
+.mainnavbar div{
+    margin-left: 20px;
+
+    
+}
+.mainnavbar p{
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+    
+.mainnavbar div:hover{
+    background-color: #353535;
+    border-bottom: 2px red solid;
+} 
