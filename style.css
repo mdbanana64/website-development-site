@@ -39,7 +39,7 @@ p {
 .mainnavbar div img {
     width: 40px;
     height: 40px;
-    padding-top: 10px;
+    padding-top: 9px;
     padding-bottom: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -63,12 +63,21 @@ p {
     border-bottom: 2px #ff0000 solid;
 }
 
+.bannerimg img{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    z-index: -1;
+    top: 90px;
+    
 
+}
 .pagetitle{
     margin-left: 40px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14pt;
     text-decoration: underline;
+    color: #ffffff;
 }
 
 .splashscreen {
