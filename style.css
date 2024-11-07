@@ -91,3 +91,7 @@ p {
     border: #ff0000 2px solid;
     text-align: center;
 }
+
+.splashscreen h1 {
+    color: white;
+}
